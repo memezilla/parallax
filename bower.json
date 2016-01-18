@@ -1,5 +1,5 @@
 {
-  "name": "parallax.js",
+  "name": "parallax",
   "version": "1.4.0",
   "homepage": "http://pixelcog.com/parallax.js/",
   "description": "Simple parallax scrolling effect inspired by spotify.com implemented as a jQuery plugin",
